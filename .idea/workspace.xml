@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="944ef15e-90ee-430e-9b18-3d5658fda315" name="Changes" comment="chapter5">
+      <change afterPath="$PROJECT_DIR$/chapter6/chapter6 PS/problem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/chapter6 PS/problem2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/chapter6 PS/problem3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/chapter6 PS/problem4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/chapter6 PS/problem5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/chapter6 PS/problem6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/conditional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/if_elif_else_ladder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/multipal if statment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ParthPythonDeveloper"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ParthPythonDeveloper/Practice.git",
+    "accountId": "3a3b3a37-ce96-4797-a71f-2bf8d923b54a"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/chapter4/chapter4 PS/problem3.py" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -40,14 +61,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Datatype.executor": "Run",
+    "Python.conditional.executor": "Run",
     "Python.dict method.executor": "Run",
     "Python.dict.executor": "Run",
     "Python.list method.executor": "Run",
     "Python.list.executor": "Run",
+    "Python.multipal if statment.executor": "Run",
     "Python.proble,4.executor": "Run",
     "Python.problem1.executor": "Run",
     "Python.problem2.executor": "Run",
     "Python.problem3.executor": "Run",
+    "Python.problem4.executor": "Run",
+    "Python.problem5.executor": "Run",
     "Python.problem6.executor": "Run",
     "Python.set union intersection.executor": "Run",
     "Python.set.executor": "Run",
@@ -82,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729149170798</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chapter5">
+      <option name="closed" value="true" />
+      <created>1729149644696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729149644696</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
