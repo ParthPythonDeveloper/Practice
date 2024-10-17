@@ -4,28 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="944ef15e-90ee-430e-9b18-3d5658fda315" name="Changes" comment="" />
+    <list default="true" id="944ef15e-90ee-430e-9b18-3d5658fda315" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter5/chapter5 PS/problem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/chapter5 PS/problem2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/chapter5 PS/problem3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/chapter5 PS/problem4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/chapter5 PS/problem6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/chapter5 PS/problem9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/dict method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/set method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/set union intersection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/chapter4/chapter4 PS/problem3.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2nTGaypRKiyMx8ZrUTUMVuwcdpH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Datatype.executor": "Run",
+    "Python.dict method.executor": "Run",
+    "Python.dict.executor": "Run",
+    "Python.list method.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.proble,4.executor": "Run",
+    "Python.problem1.executor": "Run",
+    "Python.problem2.executor": "Run",
+    "Python.problem3.executor": "Run",
+    "Python.problem6.executor": "Run",
+    "Python.set union intersection.executor": "Run",
+    "Python.set.executor": "Run",
+    "Python.tuple method.executor": "Run",
+    "Python.tuple.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
