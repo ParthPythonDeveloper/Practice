@@ -5,15 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="944ef15e-90ee-430e-9b18-3d5658fda315" name="Changes" comment="chapter5">
-      <change afterPath="$PROJECT_DIR$/chapter6/chapter6 PS/problem1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/chapter6 PS/problem2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/chapter6 PS/problem3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/chapter6 PS/problem4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/chapter6 PS/problem5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/chapter6 PS/problem6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/conditional.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/if_elif_else_ladder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/multipal if statment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/for loop with else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/for loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/for_loop_iterate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/list using while loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/while loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,18 +37,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ParthPythonDeveloper"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ParthPythonDeveloper&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ParthPythonDeveloper/Practice.git",
-    "accountId": "3a3b3a37-ce96-4797-a71f-2bf8d923b54a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ParthPythonDeveloper/Practice.git&quot;,
+    &quot;accountId&quot;: &quot;3a3b3a37-ce96-4797-a71f-2bf8d923b54a&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/chapter4/chapter4 PS/problem3.py" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -64,8 +70,13 @@
     "Python.conditional.executor": "Run",
     "Python.dict method.executor": "Run",
     "Python.dict.executor": "Run",
+    "Python.for loop with else.executor": "Run",
+    "Python.for loop.executor": "Run",
+    "Python.for_loop_iterate.executor": "Run",
     "Python.list method.executor": "Run",
+    "Python.list using while loop.executor": "Run",
     "Python.list.executor": "Run",
+    "Python.loop.executor": "Run",
     "Python.multipal if statment.executor": "Run",
     "Python.proble,4.executor": "Run",
     "Python.problem1.executor": "Run",
@@ -74,12 +85,16 @@
     "Python.problem4.executor": "Run",
     "Python.problem5.executor": "Run",
     "Python.problem6.executor": "Run",
+    "Python.problem7.executor": "Run",
+    "Python.problem9.executor": "Run",
     "Python.set union intersection.executor": "Run",
     "Python.set.executor": "Run",
     "Python.tuple method.executor": "Run",
     "Python.tuple.executor": "Run",
+    "Python.while loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -115,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729149644696</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chapter5">
+      <option name="closed" value="true" />
+      <created>1729166036801</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729166036801</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
