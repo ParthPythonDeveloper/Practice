@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="944ef15e-90ee-430e-9b18-3d5658fda315" name="Changes" comment="chapter5">
-      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/chapter7 PS/problem9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/for loop with else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/for loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/for_loop_iterate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/list using while loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/while loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/chapter8 PS/problem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/chapter8 PS/problem2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/default.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/function and arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/recursion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,12 +58,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Datatype.executor": "Run",
+    "Python.chapter8 PS.executor": "Run",
     "Python.conditional.executor": "Run",
+    "Python.default.executor": "Run",
     "Python.dict method.executor": "Run",
     "Python.dict.executor": "Run",
     "Python.for loop with else.executor": "Run",
     "Python.for loop.executor": "Run",
     "Python.for_loop_iterate.executor": "Run",
+    "Python.function and arguments.executor": "Run",
+    "Python.functions.executor": "Run",
     "Python.list method.executor": "Run",
     "Python.list using while loop.executor": "Run",
     "Python.list.executor": "Run",
@@ -80,6 +75,7 @@
     "Python.multipal if statment.executor": "Run",
     "Python.proble,4.executor": "Run",
     "Python.problem1.executor": "Run",
+    "Python.problem10.executor": "Run",
     "Python.problem2.executor": "Run",
     "Python.problem3.executor": "Run",
     "Python.problem4.executor": "Run",
@@ -87,6 +83,7 @@
     "Python.problem6.executor": "Run",
     "Python.problem7.executor": "Run",
     "Python.problem9.executor": "Run",
+    "Python.recursion.executor": "Run",
     "Python.set union intersection.executor": "Run",
     "Python.set.executor": "Run",
     "Python.tuple method.executor": "Run",
@@ -138,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729166036801</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chapter5">
+      <option name="closed" value="true" />
+      <created>1729258659642</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729258659642</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
